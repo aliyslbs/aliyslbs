@@ -11,21 +11,6 @@
   🌐 <a href="https://www.aliyesilbas.com" target="_blank"><b>aliyesilbas.com</b></a>
 </p>
 
----
-
-### 📊 Engineering Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyslbs&theme=tokyonight&show_icons=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyslbs&theme=tokyonight&layout=compact" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliyslbs&theme=tokyonight" width="100%" />
-</p>
-
----
-
 ### 💻 Tech Stack & Toolbelt
 
 | Category | Tools |
@@ -41,8 +26,4 @@
   <a href="https://www.linkedin.com/in/ali-ye%C5%9Filba%C5%9F/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=aliyslbs&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Ali's Profile Views" />
 </p>
