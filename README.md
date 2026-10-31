@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <font size="6"><b>وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ</b></font><br>
   <i>"And that there is not for man except that [good] for which he strives." (Najm, 39)</i><br><br>
 </p>
 
